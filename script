@@ -1,0 +1,10 @@
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/wow658/pet-spawner/refs/heads/main/pet%20spawner.lua'))()
+
+or
+
+
+loadstring(game:HttpGetAsync('https://pastefy.app/SdluCwmt/raw'))()
+
+
+enjoy!!
+loading is long smh
